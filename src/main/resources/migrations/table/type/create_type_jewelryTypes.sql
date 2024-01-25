@@ -1,0 +1,1 @@
+create type jewelry_types as enum('Necklace','Ring','Bracelet','Earring');
